@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Baloo2-Bold.ttf",
+      "sha1": "76d9d9015ec3a706d5adcdf6452b23578c732f8c"
+    },
+    {
+      "path": "assets/fonts/Baloo2-ExtraBold.ttf",
+      "sha1": "e5fb953400027a22a1750b3b0c2c2019718da5b0"
+    },
+    {
+      "path": "assets/fonts/Baloo2-Medium.ttf",
+      "sha1": "a2d048736a1c9f8e2b01b1ecaa3de1db75a997db"
+    },
+    {
+      "path": "assets/fonts/Baloo2-Regular.ttf",
+      "sha1": "b183afe8d0c5f9c47865b7fe251e3783c80e5005"
+    },
+    {
+      "path": "assets/fonts/Baloo2-SemiBold.ttf",
+      "sha1": "a9bb32a0834f36b1185201f25fbe156715db804f"
+    },
+    {
+      "path": "assets/fonts/Dongle-Bold.ttf",
+      "sha1": "4071e0b013aa9f1efbd76b93b129ef9ecda9c92f"
+    },
+    {
+      "path": "assets/fonts/Dongle-Light.ttf",
+      "sha1": "d1aa81b2cbdbcfcfcfca150f0538d63c838f22c2"
+    },
+    {
+      "path": "assets/fonts/Dongle-Regular.ttf",
+      "sha1": "e36e2152293998725661c6dfe47571ca8b9f004a"
+    },
+    {
+      "path": "assets/fonts/VarelaRound-Regular.ttf",
+      "sha1": "549e4b02217aff2920c11101eca6b41c805ccb69"
+    }
+  ]
+}
